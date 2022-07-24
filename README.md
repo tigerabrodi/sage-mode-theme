@@ -1,13 +1,5 @@
-# README
-## This is the README for your extension "sage-mode"
-You can author your README using Visual Studio Code.  Here are some useful editor keyboard shortcuts:
+Naruto Sage Mode Theme :fire:
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux)
-* Toggle preview (`Shift+CMD+V` on macOS or `Shift+Ctrl+V` on Windows and Linux)
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets
+![Screenshot from 2022-07-24 10-15-59](https://user-images.githubusercontent.com/49603590/180641823-c517b6a8-2d10-46a5-b0c0-4f3ce682f5bc.png)
 
-### For more information
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
-
-**Enjoy!**
+Contributions are welcome! :grin:
