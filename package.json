@@ -3,6 +3,7 @@
     "displayName": "Sage Mode",
     "description": "Naruto Sage Mode VS Code Theme, for Shinobis only!",
     "version": "1.0.0",
+    "publisher": "tigerabrodi",
     "engines": {
         "vscode": "^1.69.0"
     },
@@ -10,6 +11,17 @@
         "type": "git",
         "url": "https://github.com/tigerabrodi/sage-mode-theme"
     },
+    "icon": "images/naruto.jpg",
+    "keywords": [
+        "naruto",
+        "theme",
+        "naruto theme",
+        "orange",
+        "orange theme",
+        "shinobi",
+        "ninja",
+        "ninja theme"
+    ],
     "categories": [
         "Themes"
     ],
