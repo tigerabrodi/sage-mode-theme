@@ -1,0 +1,21 @@
+{
+    "name": "sage-mode",
+    "displayName": "Sage Mode",
+    "description": "Naruto Sage Mode VS Code Theme, for Shinobis only!",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.69.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Sage Mode",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Sage Mode-color-theme.json"
+            }
+        ]
+    }
+}
